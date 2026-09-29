@@ -17,26 +17,6 @@ sudo apt update
 sudo apt install make git build-essential binutils-mips-linux-gnu python3 python3-pip python3-venv
 ```
 
-Requirements: libjpeg-turbo 3.1.2 (turbojpeg library)
-tools/sync_localization_kit.py uses libjpeg-turbo 3.x to convert the Battle Data
-help screenshot (archive13_055_jpeg_144x96.jpg) to the baseline JPEG layout
-Stadium expects. It looks for the library at tools/bin/turbojpeg.dll (create the
-tools/bin folder if it does not exist). The path is the same on Windows and Linux.
-
-Windows
-Download libjpeg-turbo-3.1.2-vc-x64.exe fromhttps://github.com/libjpeg-turbo/libjpeg-turbo/releases/tag/3.1.2 and run it(default folder: C:\libjpeg-turbo64).
-Copy C:\libjpeg-turbo64\bin\turbojpeg.dll to tools\bin\turbojpeg.dll.
-
-Linux x86-64 (official .deb, no root needed)
-mkdir -p tools/bin /tmp/ljt
-wget https://github.com/libjpeg-turbo/libjpeg-turbo/releases/download/3.1.2/libjpeg-turbo-official_3.1.2_amd64.deb
-dpkg-deb -x libjpeg-turbo-official_3.1.2_amd64.deb /tmp/ljt
-cp /tmp/ljt/opt/libjpeg-turbo/lib64/libturbojpeg.so.0.4.0 tools/bin/turbojpeg.dll
-
-The file keeps the .dll name on Linux on purpose; the loader ignores the extension.
-Other CPUs or distributions: build libjpeg-turbo 3.1.2 from source and copy its
-libturbojpeg.so the same way.
-
 **Please also ensure that the Python version installed is >3.7.**
 
 The build process has a few python packages required that are located in `requirements.txt`.
@@ -46,6 +26,29 @@ To install them simply run in a terminal:
 ```bash
 python3 -m pip install -r requirements.txt
 ```
+### libjpeg-turbo 3.1.2 (`turbojpeg` library)
+
+`tools/sync_localization_kit.py` uses libjpeg-turbo 3.x to convert the Battle Data
+help screenshot (`archive13_055_jpeg_144x96.jpg`) to the baseline JPEG layout
+Stadium expects. It looks for the library at `tools/bin/turbojpeg.dll` (create the
+`tools/bin` folder if it does not exist). The path is the same on Windows and Linux.
+
+**Windows**
+1. Download `libjpeg-turbo-3.1.2-vc-x64.exe` from
+   https://github.com/libjpeg-turbo/libjpeg-turbo/releases/tag/3.1.2 and run it
+   (default folder: `C:\libjpeg-turbo64`).
+2. Copy `C:\libjpeg-turbo64\bin\turbojpeg.dll` to `tools\bin\turbojpeg.dll`.
+
+**Linux x86-64 (official .deb, no root needed)**
+```sh
+mkdir -p tools/bin /tmp/ljt
+wget https://github.com/libjpeg-turbo/libjpeg-turbo/releases/download/3.1.2/libjpeg-turbo-official_3.1.2_amd64.deb
+dpkg-deb -x libjpeg-turbo-official_3.1.2_amd64.deb /tmp/ljt
+cp /tmp/ljt/opt/libjpeg-turbo/lib64/libturbojpeg.so.0.4.0 tools/bin/turbojpeg.dll
+```
+The file keeps the `.dll` name on Linux on purpose; the loader ignores the extension.
+Other CPUs or distributions: build libjpeg-turbo 3.1.2 from source and copy its
+`libturbojpeg.so` the same way.
 
 # To use
 1. Place the US Pokemon Stadium 2 (US/JP) rom into the repository's "/baseroms/VERSION/" folder as "baserom.z64". `VERSION` can be `us` or `jp`
