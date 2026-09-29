@@ -1,0 +1,405 @@
+{
+  "format": 1,
+  "files": {
+    "Build Mobile Stadium ROMs.bat": {
+      "size": 6738,
+      "sha256": "98e493332643bc51f257813330ac065579bc19a2aa97a3f4803e7e3fdf71aa2e"
+    },
+    "include/mobile_stadium.h": {
+      "size": 2826,
+      "sha256": "96896f07205bd61b9593fcfa4082322f964472886f8dd0f5194cc744ffd96137"
+    },
+    "Pokemon Stadium 2 Mobile Save Converter README.md": {
+      "size": 2452,
+      "sha256": "10f9980ad23a292d1b96068764b58d63762e94b9d671a91987973e4aa486c4a3"
+    },
+    "Pokemon Stadium 2 Mobile Save Converter.bat": {
+      "size": 244,
+      "sha256": "35c9c2f11d0e19efdf0c295f3e06219583b82b084e073af25c274698c3ebd13b"
+    },
+    "README.txt": {
+      "size": 870,
+      "sha256": "78471725b0a214a0af72f41e92255bf142694a39d777e666a36a6b2ce25a79a3"
+    },
+    "src/mobile_stadium_command.s": {
+      "size": 554,
+      "sha256": "75504bd028df6aaa002003beb54649d1f98e41d198672719602a4035c0d97633"
+    },
+    "src/mobile_stadium_overlay.c": {
+      "size": 28128,
+      "sha256": "42e508d31d584f46daca9e184f898609e5e0d18b725a9975414ab512c477be40"
+    },
+    "stadium2-localization-kit/de_msg.txt": {
+      "size": 833217,
+      "sha256": "8618ae5fb4053f29264391471c27912f5727abf80b675704ac02734bb95f351d"
+    },
+    "stadium2-localization-kit/en_msg.txt": {
+      "size": 765847,
+      "sha256": "1a9a6e48f2f9ea57b3cbdaba2c3bb3278fcd80181bd5627d38f9c533382e344e"
+    },
+    "stadium2-localization-kit/es_msg.txt": {
+      "size": 765263,
+      "sha256": "cf1ecf07f3e28cc8d4fe16907cff9be64c7a7ac3c755ad53e9cfe618df508afc"
+    },
+    "stadium2-localization-kit/fr_msg.txt": {
+      "size": 728755,
+      "sha256": "bf5efb1396ce352322225ba4cc9f198fb3edf23e2ad95a8d620e38be20f508d8"
+    },
+    "stadium2-localization-kit/it_msg.txt": {
+      "size": 751616,
+      "sha256": "027fdcf6fb72c0a6bbb3ac1f3ad9ac6379dfa2b325ac1528d6ec420abdbe2bc4"
+    },
+    "stadium2-localization-kit/ja-Hrkt_msg.txt": {
+      "size": 1133732,
+      "sha256": "8cdfa5a2d4b833f48f1ed85b9eb406cab0261ae4bb2a2fd5cd0013f797d8d1b2"
+    },
+    "stadium2-localization-kit/mobile/assets/graphics/au/archive13_055_jpeg_144x96.jpg": {
+      "size": 4776,
+      "sha256": "9a573690b6e24fbb37f0adbf40de611b92461b0d5789ee2cacb007c8e826adfa"
+    },
+    "stadium2-localization-kit/mobile/assets/graphics/au/archive13_056_jpeg_144x112.jpg": {
+      "size": 9028,
+      "sha256": "e52655843fc1867698a6e27dd65e62b5f34c7c77f884bbc4647fbda784bcf6a7"
+    },
+    "stadium2-localization-kit/mobile/assets/graphics/au/archive13_057_jpeg_144x112.jpg": {
+      "size": 15155,
+      "sha256": "b73c332e3621ec5262480b902b45f7e65102b8ecd87dd41d4a8ba4956422a0be"
+    },
+    "stadium2-localization-kit/mobile/assets/graphics/au/archive13_058_jpeg_144x112.jpg": {
+      "size": 11036,
+      "sha256": "edc6426dc318a4af26fda6c2a170adbae13ae8ddd809921818fa50cbe77797ab"
+    },
+    "stadium2-localization-kit/mobile/assets/graphics/au/archive1_099_000010_ia8_320x37.png": {
+      "size": 9255,
+      "sha256": "20aa912ec4628ebbd06132b519b5d1333668da3a859a945b655aa3ef86b7d1c8"
+    },
+    "stadium2-localization-kit/mobile/assets/graphics/au/archive1_228_00AC90_rgba16_248x89.png": {
+      "size": 32667,
+      "sha256": "c0683932581449810fb61610545a2f1f1dda50c00cdc4276d964cab2d3eb1ee0"
+    },
+    "stadium2-localization-kit/mobile/assets/graphics/au/archive1_229_000010_rgba16_256x137.png": {
+      "size": 59025,
+      "sha256": "7c65022401e274a72d0adec0568ebe04b4fd6d77ff4af6a87e5e521e12ff4d52"
+    },
+    "stadium2-localization-kit/mobile/assets/graphics/au/archive1_253_000010_rgba16_160x142.png": {
+      "size": 16796,
+      "sha256": "1f0370560312ca2b06ae1df3cc2cbae76dff5f4a1bf1404245b967095271b1b1"
+    },
+    "stadium2-localization-kit/mobile/assets/graphics/au/archive1_254_000018_rgba16_152x44.png": {
+      "size": 8556,
+      "sha256": "f2b33f6c22b11221ed697d605848ff9e79840e5cb18b0c3553a844716e817204"
+    },
+    "stadium2-localization-kit/mobile/assets/graphics/de/archive13_055_jpeg_144x96.jpg": {
+      "size": 28870,
+      "sha256": "4a3f7c22edc14accec25fe171f73455104fb8fe9385781dce78b5d586a400248"
+    },
+    "stadium2-localization-kit/mobile/assets/graphics/de/archive13_056_jpeg_144x112.jpg": {
+      "size": 9079,
+      "sha256": "a059f8287510c0c58c0bde6ef03446369faae7ac44020e9c8fb47d799691921b"
+    },
+    "stadium2-localization-kit/mobile/assets/graphics/de/archive13_057_jpeg_144x112.jpg": {
+      "size": 14833,
+      "sha256": "896b89d52180d8a6dd0b749ea5a6d4e07ad812e36ff13ae95e3042b51ffe2c1a"
+    },
+    "stadium2-localization-kit/mobile/assets/graphics/de/archive13_058_jpeg_144x112.jpg": {
+      "size": 11171,
+      "sha256": "1e0b9164a5b4fdb50b1e36cf4dd80dc0a9a8d64e457a7ade806b8f7abedab626"
+    },
+    "stadium2-localization-kit/mobile/assets/graphics/de/archive1_099_000010_ia8_320x37.png": {
+      "size": 9389,
+      "sha256": "0e114568fa7dd154ba687742e7b972b5461fd81488ec23c07a3adeab10abdee1"
+    },
+    "stadium2-localization-kit/mobile/assets/graphics/de/archive1_228_00AC90_rgba16_248x89.png": {
+      "size": 32610,
+      "sha256": "c143d54ea3a629df19da4443839632bbf6a32919c277645cea84965cc6b26880"
+    },
+    "stadium2-localization-kit/mobile/assets/graphics/de/archive1_229_000010_rgba16_256x137.png": {
+      "size": 58373,
+      "sha256": "56b8c9c45604ce0df4d602534dfa4fec67d4c2a3de6c666262e9e719dd4b6c58"
+    },
+    "stadium2-localization-kit/mobile/assets/graphics/de/archive1_253_000010_rgba16_160x142.png": {
+      "size": 17319,
+      "sha256": "a0b14185119b705ef6059d3fa7d2ef2e4158cf992a4e9f8e8e2bcf455d22cb03"
+    },
+    "stadium2-localization-kit/mobile/assets/graphics/de/archive1_254_000018_rgba16_152x44.png": {
+      "size": 8758,
+      "sha256": "b6e86bc9340f892048377c28169c0aff4e22ea80dfea40aa559fed8f7aec2490"
+    },
+    "stadium2-localization-kit/mobile/assets/graphics/en/archive13_055_jpeg_144x96.jpg": {
+      "size": 4776,
+      "sha256": "9a573690b6e24fbb37f0adbf40de611b92461b0d5789ee2cacb007c8e826adfa"
+    },
+    "stadium2-localization-kit/mobile/assets/graphics/en/archive13_056_jpeg_144x112.jpg": {
+      "size": 9028,
+      "sha256": "e52655843fc1867698a6e27dd65e62b5f34c7c77f884bbc4647fbda784bcf6a7"
+    },
+    "stadium2-localization-kit/mobile/assets/graphics/en/archive13_057_jpeg_144x112.jpg": {
+      "size": 15155,
+      "sha256": "b73c332e3621ec5262480b902b45f7e65102b8ecd87dd41d4a8ba4956422a0be"
+    },
+    "stadium2-localization-kit/mobile/assets/graphics/en/archive13_058_jpeg_144x112.jpg": {
+      "size": 11036,
+      "sha256": "edc6426dc318a4af26fda6c2a170adbae13ae8ddd809921818fa50cbe77797ab"
+    },
+    "stadium2-localization-kit/mobile/assets/graphics/en/archive1_099_000010_ia8_320x37.png": {
+      "size": 9255,
+      "sha256": "20aa912ec4628ebbd06132b519b5d1333668da3a859a945b655aa3ef86b7d1c8"
+    },
+    "stadium2-localization-kit/mobile/assets/graphics/en/archive1_228_00AC90_rgba16_248x89.png": {
+      "size": 32667,
+      "sha256": "c0683932581449810fb61610545a2f1f1dda50c00cdc4276d964cab2d3eb1ee0"
+    },
+    "stadium2-localization-kit/mobile/assets/graphics/en/archive1_229_000010_rgba16_256x137.png": {
+      "size": 59025,
+      "sha256": "7c65022401e274a72d0adec0568ebe04b4fd6d77ff4af6a87e5e521e12ff4d52"
+    },
+    "stadium2-localization-kit/mobile/assets/graphics/en/archive1_253_000010_rgba16_160x142.png": {
+      "size": 16796,
+      "sha256": "1f0370560312ca2b06ae1df3cc2cbae76dff5f4a1bf1404245b967095271b1b1"
+    },
+    "stadium2-localization-kit/mobile/assets/graphics/en/archive1_254_000018_rgba16_152x44.png": {
+      "size": 8556,
+      "sha256": "f2b33f6c22b11221ed697d605848ff9e79840e5cb18b0c3553a844716e817204"
+    },
+    "stadium2-localization-kit/mobile/assets/graphics/es/archive13_055_jpeg_144x96.jpg": {
+      "size": 28769,
+      "sha256": "cc3aa9d2eb8672a13a60f4ee8e6aa863b34448f7bad022c8a55025ba04cbe293"
+    },
+    "stadium2-localization-kit/mobile/assets/graphics/es/archive13_056_jpeg_144x112.jpg": {
+      "size": 9087,
+      "sha256": "162ca60705dea6c8cd6e66da68a693aa2a9984e261810fc2bebc53ee50f7b412"
+    },
+    "stadium2-localization-kit/mobile/assets/graphics/es/archive13_057_jpeg_144x112.jpg": {
+      "size": 15275,
+      "sha256": "a8cb93f3ed5b782540700dc46b5d82aa9b6d79f223fd35c530a858e1a1793da0"
+    },
+    "stadium2-localization-kit/mobile/assets/graphics/es/archive13_058_jpeg_144x112.jpg": {
+      "size": 11138,
+      "sha256": "c42bda62a60877fb8da53860e2c87fccaf7a7f101bf34f5b04d6b6b504bf0c5a"
+    },
+    "stadium2-localization-kit/mobile/assets/graphics/es/archive1_099_000010_ia8_320x37.png": {
+      "size": 11182,
+      "sha256": "b382d4bf0fd10b465637c844b25141c1a9b43f67f0c7d785d956ef80d1b1379e"
+    },
+    "stadium2-localization-kit/mobile/assets/graphics/es/archive1_228_00AC90_rgba16_248x89.png": {
+      "size": 32595,
+      "sha256": "f8d45a77b343ada5d883b63d7669b43fdea5a6d47eea155fd6f96390ceeb02d8"
+    },
+    "stadium2-localization-kit/mobile/assets/graphics/es/archive1_229_000010_rgba16_256x137.png": {
+      "size": 58812,
+      "sha256": "0a25ed8d26b77af629de134b7f400095d348f75c17f79e1455301e80dc4ebd99"
+    },
+    "stadium2-localization-kit/mobile/assets/graphics/es/archive1_253_000010_rgba16_160x142.png": {
+      "size": 15674,
+      "sha256": "37ea29ea9dfe96240d6116a52ddde9dd7dcf0cde8671725db2a9e5d6263cdac2"
+    },
+    "stadium2-localization-kit/mobile/assets/graphics/es/archive1_254_000018_rgba16_152x44.png": {
+      "size": 8357,
+      "sha256": "ec7e5e452949e3f857d05e8c41732c75c86796427618e0cf12cf7dfe27842ffe"
+    },
+    "stadium2-localization-kit/mobile/assets/graphics/fr/archive13_055_jpeg_144x96.jpg": {
+      "size": 28851,
+      "sha256": "3b22fe180e8677397f484b2827240d5c81ae6bf21a4652244d2f8e975cfc3e52"
+    },
+    "stadium2-localization-kit/mobile/assets/graphics/fr/archive13_056_jpeg_144x112.jpg": {
+      "size": 9118,
+      "sha256": "cb44bf1d8a575048bb9398c0eeccfc1e371e3b339160e74915da6a93ef8e1758"
+    },
+    "stadium2-localization-kit/mobile/assets/graphics/fr/archive13_057_jpeg_144x112.jpg": {
+      "size": 15372,
+      "sha256": "d8a942a7a70848701600fc77e17a00b4c90ad48c0523a99e791a8aab9b21e323"
+    },
+    "stadium2-localization-kit/mobile/assets/graphics/fr/archive13_058_jpeg_144x112.jpg": {
+      "size": 11015,
+      "sha256": "be850e5a910ab8f3aacb3417dfe485b153372f091df6df134293b58f64d18ec2"
+    },
+    "stadium2-localization-kit/mobile/assets/graphics/fr/archive1_099_000010_ia8_320x37.png": {
+      "size": 8470,
+      "sha256": "b12e4dd0263d7d760a97b8d66b865090246b222f7b517b9646253bda3f8a12ac"
+    },
+    "stadium2-localization-kit/mobile/assets/graphics/fr/archive1_228_00AC90_rgba16_248x89.png": {
+      "size": 32562,
+      "sha256": "54e19d8f9329f882d04acd5652ea0dafca0465e2eed9d226ee02d0c8bf667a5a"
+    },
+    "stadium2-localization-kit/mobile/assets/graphics/fr/archive1_229_000010_rgba16_256x137.png": {
+      "size": 58792,
+      "sha256": "b9c562a4356bd19fbb27243b60edac24cb919220bd60b2c5ae64c6e11a33ad49"
+    },
+    "stadium2-localization-kit/mobile/assets/graphics/fr/archive1_253_000010_rgba16_160x142.png": {
+      "size": 15775,
+      "sha256": "c17658aef12b1bead9361d3bc2e1bd9e2fb8bbdf9bc685c7b3e6be233bbc36b0"
+    },
+    "stadium2-localization-kit/mobile/assets/graphics/fr/archive1_254_000018_rgba16_152x44.png": {
+      "size": 7625,
+      "sha256": "49e0e81973bd9392d0a47ab41ae31972b8590b1bc1f66051c65f7aecec3e27af"
+    },
+    "stadium2-localization-kit/mobile/assets/graphics/it/archive13_055_jpeg_144x96.jpg": {
+      "size": 29194,
+      "sha256": "5d9126a8fa17fe099e73843983945cdf4f111e443991451732798c7a9f37650a"
+    },
+    "stadium2-localization-kit/mobile/assets/graphics/it/archive13_056_jpeg_144x112.jpg": {
+      "size": 9241,
+      "sha256": "152c48ddcb89f0510bb4a6ab5f8f07a40c4ef13acfa816204489642670a38803"
+    },
+    "stadium2-localization-kit/mobile/assets/graphics/it/archive13_057_jpeg_144x112.jpg": {
+      "size": 15343,
+      "sha256": "7df86000071b9a7895dd57567372490426bac921cba5e7c06ba3b79eff689c03"
+    },
+    "stadium2-localization-kit/mobile/assets/graphics/it/archive13_058_jpeg_144x112.jpg": {
+      "size": 11163,
+      "sha256": "067cb77cd355bd65f52d3d3fdfb949042f6fb3718ec7ab4afd1da41a9183f5f3"
+    },
+    "stadium2-localization-kit/mobile/assets/graphics/it/archive1_033_000A70_ia8_24x26.png": {
+      "size": 3013,
+      "sha256": "8f923f2f46c4df8789f8cc6b036485160524eda00db237527a933fa71695191b"
+    },
+    "stadium2-localization-kit/mobile/assets/graphics/it/archive1_099_000010_ia8_320x37.png": {
+      "size": 9845,
+      "sha256": "15a5f8f619ecf817899d76b39e1601cc02e496446d4424265c2c1f17fc073c0d"
+    },
+    "stadium2-localization-kit/mobile/assets/graphics/it/archive1_228_00AC90_rgba16_248x89.png": {
+      "size": 32623,
+      "sha256": "63143e32672eb60fde030f01486954097ca0678cc667d2d2bf9294bb356414a4"
+    },
+    "stadium2-localization-kit/mobile/assets/graphics/it/archive1_229_000010_rgba16_256x137.png": {
+      "size": 58741,
+      "sha256": "7993c6d310f4d2ec26ad998ba83f357d68c4b5e3dd18058485d3b008bc313870"
+    },
+    "stadium2-localization-kit/mobile/assets/graphics/it/archive1_253_000010_rgba16_160x142.png": {
+      "size": 16411,
+      "sha256": "64e87fcced266e27cf7e8b6208cd36f54b7e8df64fbe05b69e04e0eb4b4a0570"
+    },
+    "stadium2-localization-kit/mobile/assets/graphics/it/archive1_254_000018_rgba16_152x44.png": {
+      "size": 8334,
+      "sha256": "d1cfdc9f96037116e4d33353b969368f9e4fbad9194bd600b169c9b3906599d4"
+    },
+    "stadium2-localization-kit/mobile/assets/graphics/us/archive13_055_jpeg_144x96.jpg": {
+      "size": 4776,
+      "sha256": "9a573690b6e24fbb37f0adbf40de611b92461b0d5789ee2cacb007c8e826adfa"
+    },
+    "stadium2-localization-kit/mobile/assets/graphics/us/archive13_056_jpeg_144x112.jpg": {
+      "size": 9028,
+      "sha256": "e52655843fc1867698a6e27dd65e62b5f34c7c77f884bbc4647fbda784bcf6a7"
+    },
+    "stadium2-localization-kit/mobile/assets/graphics/us/archive13_057_jpeg_144x112.jpg": {
+      "size": 15155,
+      "sha256": "b73c332e3621ec5262480b902b45f7e65102b8ecd87dd41d4a8ba4956422a0be"
+    },
+    "stadium2-localization-kit/mobile/assets/graphics/us/archive13_058_jpeg_144x112.jpg": {
+      "size": 11036,
+      "sha256": "edc6426dc318a4af26fda6c2a170adbae13ae8ddd809921818fa50cbe77797ab"
+    },
+    "stadium2-localization-kit/mobile/assets/graphics/us/archive1_099_000010_ia8_320x37.png": {
+      "size": 9255,
+      "sha256": "20aa912ec4628ebbd06132b519b5d1333668da3a859a945b655aa3ef86b7d1c8"
+    },
+    "stadium2-localization-kit/mobile/assets/graphics/us/archive1_228_00AC90_rgba16_248x89.png": {
+      "size": 32667,
+      "sha256": "c0683932581449810fb61610545a2f1f1dda50c00cdc4276d964cab2d3eb1ee0"
+    },
+    "stadium2-localization-kit/mobile/assets/graphics/us/archive1_229_000010_rgba16_256x137.png": {
+      "size": 59025,
+      "sha256": "7c65022401e274a72d0adec0568ebe04b4fd6d77ff4af6a87e5e521e12ff4d52"
+    },
+    "stadium2-localization-kit/mobile/assets/graphics/us/archive1_253_000010_rgba16_160x142.png": {
+      "size": 16796,
+      "sha256": "1f0370560312ca2b06ae1df3cc2cbae76dff5f4a1bf1404245b967095271b1b1"
+    },
+    "stadium2-localization-kit/mobile/assets/graphics/us/archive1_254_000018_rgba16_152x44.png": {
+      "size": 8556,
+      "sha256": "f2b33f6c22b11221ed697d605848ff9e79840e5cb18b0c3553a844716e817204"
+    },
+    "stadium2-localization-kit/mobile/assets/text/de.json": {
+      "size": 8051,
+      "sha256": "8ddf27e663387cc3bbdd9ff91c1ceebc4809c43a42966d2922557f0a287accc3"
+    },
+    "stadium2-localization-kit/mobile/assets/text/de.msg-overrides.json": {
+      "size": 852,
+      "sha256": "cd1bf04925177cd50efe9f4b1259aec1d9aabde8cdcb71536665c96aad932568"
+    },
+    "stadium2-localization-kit/mobile/assets/text/en.json": {
+      "size": 8491,
+      "sha256": "18fb73564a1e15657849fc887a0b093c479b8e619ac78bdfb6f99f3a60687c84"
+    },
+    "stadium2-localization-kit/mobile/assets/text/en.msg-overrides.json": {
+      "size": 494,
+      "sha256": "c57378d656e7b95b8485d5bedb0dcf8aca2b5090c47f71f745975fa1a71dcb40"
+    },
+    "stadium2-localization-kit/mobile/assets/text/es.json": {
+      "size": 9462,
+      "sha256": "3c1f3598d4a90a4193b76000e0b7f1a3a1b08ef8f338084f542a20d3aacd628c"
+    },
+    "stadium2-localization-kit/mobile/assets/text/es.msg-overrides.json": {
+      "size": 485,
+      "sha256": "f6c682ec07d25a733bbe1a31c36bdc2385ee49ceb622afd8c003b707ae7affb8"
+    },
+    "stadium2-localization-kit/mobile/assets/text/fr.json": {
+      "size": 8171,
+      "sha256": "f90c24c2ed5e65af00b48b716fd755d81de33e8f8321074cfbd765db400b2c74"
+    },
+    "stadium2-localization-kit/mobile/assets/text/fr.msg-overrides.json": {
+      "size": 498,
+      "sha256": "9a3310bc1555679233cd8d317f7e950b473534ddfc027ddb1f82964ac25cee81"
+    },
+    "stadium2-localization-kit/mobile/assets/text/it.json": {
+      "size": 8717,
+      "sha256": "aea1c0ceaf350546f921f81256db7b44893f1b59ba4c0b0c251f10ad7cd02ba2"
+    },
+    "stadium2-localization-kit/mobile/assets/text/it.msg-overrides.json": {
+      "size": 571,
+      "sha256": "185934cb60f3e8c815518fead855cc88a59c6a1b3ade3058963f42e813b31e45"
+    },
+    "stadium2-localization-kit/mobile/assets/text/ja.json": {
+      "size": 14932,
+      "sha256": "bde02874cd116d2334683ab1f78895964adb3dddcd598f1287da19527486060c"
+    },
+    "stadium2-localization-kit/mobile/assets/text/us.json": {
+      "size": 8493,
+      "sha256": "ae8213a9d696f3dccc419b9bfb7c67d438cfd7780ef57fae6625927e6d74e206"
+    },
+    "tools/bin/turbojpeg.COPYING.txt": {
+      "size": 5620,
+      "sha256": "2189dc45a8fe96204069f8124caa53a148dfdc193f50f584c6ca7849a6072872"
+    },
+    "tools/bin/turbojpeg.dll": {
+      "size": 822272,
+      "sha256": "fce2ef13caee8c46d346ed3d4037baf2d05cc06e26ed6f6a3b6d996baa2ea2e7"
+    },
+    "tools/build_mobile_overlays_wsl.sh": {
+      "size": 1636,
+      "sha256": "a764717e6d66910164206a3d13d528ebcc45dc6e20795bc00a3bdd42e1b46c1c"
+    },
+    "tools/localization.py": {
+      "size": 33422,
+      "sha256": "910f48998058d0c217a80228d9650909d80e70a9f1150c9cef6441fc6822645e"
+    },
+    "tools/mobile_save.py": {
+      "size": 11224,
+      "sha256": "c1733ac77ab4d7300484052319d7e97719246b4e014ab43966f7b0c448bc209b"
+    },
+    "tools/mobile_stadium.py": {
+      "size": 295915,
+      "sha256": "da79f8856ef741be250fe4988eb2fd0b27b7e0abc09a9f3229938d1f49606400"
+    },
+    "tools/package_mobile_stadium.py": {
+      "size": 6641,
+      "sha256": "1d392fac0546de24e8a7203ddd920fc7a7c93448d2f06d40b71b5644fee3ed5c"
+    },
+    "tools/stadium2_mobile_save_converter.py": {
+      "size": 13162,
+      "sha256": "dc74fc8e968ad29bfbfb8cfc367d87fe15ad2bd80519f6e24f0fd4cf56427f23"
+    },
+    "tools/sync_localization_kit.py": {
+      "size": 18974,
+      "sha256": "c95961a5dc826a8d0cfed607b357893783173c07355c0257de99ad76ed5784b4"
+    },
+    "tools/verify_mobile_interop.py": {
+      "size": 90869,
+      "sha256": "e72c6ad35842741c42a9b27d76e0e0dd4e8c39d376f819e6a1bb24ec1aa0f688"
+    },
+    "tools/verify_nrage_mbc30.py": {
+      "size": 1059,
+      "sha256": "30f2b288a9b5c537cd7e82b3fa348819a5ad56b44019ef9e694cc158bd8df420"
+    }
+  }
+}
