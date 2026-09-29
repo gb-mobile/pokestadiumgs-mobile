@@ -1,0 +1,29 @@
+{
+  "format": 1,
+  "language": "it",
+  "source": "it_msg.txt",
+  "text_files": [
+    {
+      "text_file": 25,
+      "entries": [
+        {
+          "index": 18,
+          "text": "Premi il pulsante A."
+        }
+      ]
+    },
+    {
+      "text_file": 63,
+      "entries": [
+        {
+          "index": 3,
+          "text": "I dati lotta della cassetta N64 o GB\\n(Cristallo) consentono di rivedere\\nle lotte e di sfidare gli allenatori."
+        },
+        {
+          "index": 36,
+          "text": "Vuoto"
+        }
+      ]
+    }
+  ]
+}

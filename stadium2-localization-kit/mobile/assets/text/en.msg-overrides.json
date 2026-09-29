@@ -1,0 +1,25 @@
+{
+  "format": 1,
+  "language": "en",
+  "source": "en_msg.txt",
+  "text_files": [
+    {
+      "text_file": 25,
+      "entries": [
+        {
+          "index": 18,
+          "text": "Please press A Button."
+        }
+      ]
+    },
+    {
+      "text_file": 63,
+      "entries": [
+        {
+          "index": 3,
+          "text": "The battle data of the N64 Game Pak\\nor the GB Crystal Game Pak may be\\nused to watch and battle trainers."
+        }
+      ]
+    }
+  ]
+}

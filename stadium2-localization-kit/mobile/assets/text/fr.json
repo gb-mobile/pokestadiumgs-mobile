@@ -1,0 +1,191 @@
+{
+    "format": 2,
+    "language": "fr",
+    "source_script": "fr_msg.txt",
+    "text_file": 54,
+    "first_entry": 86,
+    "last_entry": 124,
+    "control_codes": {
+        "literal_newline": "\\n",
+        "note": "Keep backslash-n controls and all other bracketed variables unchanged."
+    },
+    "entries": [
+        {
+            "index": 86,
+            "text": "1 -Stade Mobile"
+        },
+        {
+            "index": 87,
+            "text": "2 -Jouer avec Données Combat"
+        },
+        {
+            "index": 88,
+            "text": "3 -Jouer avec Données Ami"
+        },
+        {
+            "index": 89,
+            "text": "4 -Règles Données"
+        },
+        {
+            "index": 90,
+            "text": "5 -Organiser Données"
+        },
+        {
+            "index": 91,
+            "text": "<FONT,PUSH,20><COL1,PUSH,110,150,255,255>***<COL1,POP><FONT,POP>Le Stade Mobile, quésaco?<FONT,PUSH,20><COL1,PUSH,110,150,255,255>***<COL1,POP><FONT,POP>"
+        },
+        {
+            "index": 92,
+            "text": "<LINE,33>Le Stade Mobile vous d'utiliser les données\\nextraites de POKéMON Cristal, including\\nDonnées Combat et les Règles Combat."
+        },
+        {
+            "index": 93,
+            "text": "<FONT,PUSH,20><COL1,PUSH,110,150,255,255>***<COL1,POP><FONT,POP>Comment l'utiliser? <FONT,PUSH,20><COL1,PUSH,110,150,255,255>***<COL1,POP><FONT,POP>"
+        },
+        {
+            "index": 94,
+            "text": "<LINE,33>Utilisez l'Adaptateur\\nMobile GB afin de\\nconnecter la Game\\nBoy à un téléphone\\nmobile. Téléchargez\\nles données de\\POKéMON Cristal."
+        },
+        {
+            "index": 95,
+            "text": "<FONT,PUSH,20><COL1,PUSH,110,150,255,255>***<COL1,POP><FONT,POP>Les Données Combat, quésaco?<FONT,PUSH,20><COL1,PUSH,110,150,255,255>***<COL1,POP><FONT,POP>"
+        },
+        {
+            "index": 96,
+            "text": "<LINE,33>Il s'agit de données concernant d'autres\\ndresseurs, tel les POKéMON qu'ils ont utilisés,\\net le résultat de gleurs combats. Ces données\\npeuvent être obtenues depuis la version\\nCristal."
+        },
+        {
+            "index": 97,
+            "text": "<FONT,PUSH,20><COL1,PUSH,110,150,255,255>***<COL1,POP><FONT,POP>Que fait-on avec des Données Combat?<FONT,PUSH,20><COL1,PUSH,110,150,255,255>***<COL1,POP><FONT,POP>"
+        },
+        {
+            "index": 98,
+            "text": "<LINE,33>Vous pouvez voir comment\\nles autres dresseurs s'en\\nsortent lors de leurs combats."
+        },
+        {
+            "index": 99,
+            "text": "<FONT,PUSH,20><COL1,PUSH,110,150,255,255>***<COL1,POP><FONT,POP>Combien de fichiers peut-il y avoir?<FONT,PUSH,20><COL1,PUSH,110,150,255,255>***<COL1,POP><FONT,POP>"
+        },
+        {
+            "index": 100,
+            "text": "<LINE,33>Vous pouvez avoir trois fichiers de\\nDonnées Combat sur votre Cartouche\\nCristal et six sur la Cartouche N64."
+        },
+        {
+            "index": 101,
+            "text": "<FONT,PUSH,20><COL1,PUSH,110,150,255,255>***<COL1,POP><FONT,POP>Les Données Ami, quésaco?<FONT,PUSH,20><COL1,PUSH,110,150,255,255>***<COL1,POP><FONT,POP>"
+        },
+        {
+            "index": 102,
+            "text": "<LINE,33>Les Données Amidécrivent le résultat d'un\\nCombat Mobile disputé sur POKéMON Cristal\\nvia un Adaptateur Mobile GB."
+        },
+        {
+            "index": 103,
+            "text": "<FONT,PUSH,20><COL1,PUSH,110,150,255,255>***<COL1,POP><FONT,POP>Que fait-on avec les Données Ami?<<FONT,PUSH,20><COL1,PUSH,110,150,255,255>***<COL1,POP><FONT,POP>"
+        },
+        {
+            "index": 104,
+            "text": "<LINE,33>Combattez une copie de l'équipe de votre ami.\\nGardez jusqu'à nhuit fichiers Données Ami sur\\nla Cartouche N64."
+        },
+        {
+            "index": 105,
+            "text": "<LINE,33>Vous pouvez obtenir de nouvelles Règles Combat\\ndepuis la Cartouche Cristal. Choisissez\\nsimplement Choisir Règles dans le menu des\\nOptions, puis sauvegardez jusqu'à huit\\nparamètres sur votre Cartouche N64."
+        },
+        {
+            "index": 106,
+            "text": "<LINE,33>Données Combat, Données Ami, et Données Règles\\npeuvent être sauvegardées sur ou supprimées\\nde la Cartouche N64. Ces données ne peuvent\\npas être renvoyées vers la Cartouche Cristal."
+        },
+        {
+            "index": 107,
+            "text": "<LINE,33>Connectez votre Game Boy à votre téléphone\\nmobile grâce à l'Adaptateur Mobile GB."
+        },
+        {
+            "index": 108,
+            "text": "<LINE,33>Connectez-vous au Centre Mobile et\\ntéléchargez les données vers POKéMON Cristal."
+        },
+        {
+            "index": 109,
+            "text": "<LINE,33>Insérez la Cartouche mise à jour dans le\\nTransfer Pack afin d'utiliser le Stade Mobile."
+        },
+        {
+            "index": 110,
+            "text": "<FONT,PUSH,20><COL1,PUSH,110,150,255,255>***<COL1,POP><FONT,POP>Les Règles Données, quésaco?<FONT,PUSH,20><COL1,PUSH,110,150,255,255>***<COL1,POP><FONT,POP>"
+        },
+        {
+            "index": 111,
+            "text": "<FONT,PUSH,20><COL1,PUSH,110,150,255,255>***<COL1,POP><FONT,POP>Comment organiser les Données?<FONT,PUSH,20><COL1,PUSH,110,150,255,255>***<COL1,POP><FONT,POP>"
+        },
+        {
+            "index": 112,
+            "text": "Adaptateur Mobile GB"
+        },
+        {
+            "index": 113,
+            "text": "Centre Mobile"
+        },
+        {
+            "index": 114,
+            "text": "<LINE,33>Une icône JOUER apparaîtra pendant la démo.\\nAppuyez sur START pour sortir à tout moment.\\nVous pouvez aussi affronter ce dresseur."
+        },
+        {
+            "index": 115,
+            "text": "<LINE,33>Seuls les modèles d'Adaptateurs Mobile GB\\ncompatibles peuvent combattre et échanger\\nentre eux."
+        },
+        {
+            "index": 116,
+            "text": "6 -Autres"
+        },
+        {
+            "index": 117,
+            "text": "<FONT,PUSH,20><COL1,PUSH,110,150,255,255>***<COL1,POP><FONT,POP>Autres<FONT,PUSH,20><COL1,PUSH,110,150,255,255>***<COL2,POP><FONT,POP>"
+        },
+        {
+            "index": 118,
+            "text": "<LINE,33>Une fois vos données Cristal sauvegardées sur\\nla N64, vous pouvez jouer sans la Cartouche\\nCristal. Vous pouvez regarder un match\\nsauvegardé dans vos fichiers Données Combat,\\nou jouer contre une version Rouge, Bleu, ou\\nJaune."
+        },
+        {
+            "index": 119,
+            "text": "<LINE,33>Un Combat Mobile s'achevant avant qu'un\\nvainqueur soit choisi, les Données Ami seront\\nnéanmoins sauvegardées. Finissez le combat\\nplus tard."
+        },
+        {
+            "index": 120,
+            "text": "Les mêmes données\\nne peuvent pas être\\nsauvegardées deux\\nfois."
+        },
+        {
+            "index": 121,
+            "text": "<LINE,33>Après cela, Stade Mobile\\napparaîtra sur le menu de\\nPOKéMON Cristal."
+        },
+        {
+            "index": 122,
+            "text": "<LINE,33>Les données téléchargées\\npeuventêtre utilisées au\\nStade Mobile sur Nintendo 64."
+        },
+        {
+            "index": 123,
+            "text": "<LINE,33>Vous verrez cet écran la\\nprochaine fois que la console\\nsera allumée."
+        },
+        {
+            "index": 124,
+            "text": "<LINE,34>Démarrez POKéMON Stadium 2 avec une\\nCartouche POKéMON Cristal ayant affiché\\ncet écran. Le Stade Mobile apparaîtra au menu!"
+        }
+    ],
+    "additional_text_files": [
+        {
+            "text_file": 25,
+            "first_entry": 0,
+            "last_entry": 18,
+            "entries": [
+                {
+                    "index": 0,
+                    "text": "Choisir une cartouche GB"
+                },
+                {
+                    "index": 14,
+                    "text": "Chargement activé au Stade Mobile\\nPOKéMON version Cristal."
+                },
+                {
+                    "index": 18,
+                    "text": "Appuyer sur\\nle bouton A."
+                }
+            ]
+        }
+    ]
+}

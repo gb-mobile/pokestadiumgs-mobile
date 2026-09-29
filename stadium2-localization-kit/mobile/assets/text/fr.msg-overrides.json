@@ -1,0 +1,25 @@
+{
+  "format": 1,
+  "language": "fr",
+  "source": "fr_msg.txt",
+  "text_files": [
+    {
+      "text_file": 25,
+      "entries": [
+        {
+          "index": 18,
+          "text": "Appuyer sur le bouton A."
+        }
+      ]
+    },
+    {
+      "text_file": 63,
+      "entries": [
+        {
+          "index": 3,
+          "text": "Avec les données de combat de la\\ncartouche N64/Cristal, affrontez des\\ndresseurs ou visionnez des combats."
+        }
+      ]
+    }
+  ]
+}

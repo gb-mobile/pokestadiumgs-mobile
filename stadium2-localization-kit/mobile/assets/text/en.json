@@ -1,0 +1,191 @@
+{
+    "format":  2,
+    "language":  "en",
+    "source_script":  "en_msg.txt",
+    "text_file":  54,
+    "first_entry":  86,
+    "last_entry":  124,
+    "control_codes":  {
+                          "literal_newline":  "\\n",
+                          "note":  "Keep backslash-n controls and all other bracketed variables unchanged."
+                      },
+    "entries":  [
+                    {
+					  "index": 86,
+					  "text": "1 -Mobile Stadium"
+					},
+					{
+					  "index": 87,
+					  "text": "2 -Play with Battle Data"
+					},
+					{
+					  "index": 88,
+					  "text": "3 -Play with a Friend's Data"
+					},
+					{
+					  "index": 89,
+					  "text": "4 -Rules Data"
+					},
+					{
+					  "index": 90,
+					  "text": "5 -Organize Data"
+					},
+					{
+					  "index": 91,
+					  "text": "<FONT,PUSH,20><COL1,PUSH,110,150,255,255>***<COL1,POP><FONT,POP>What is Mobile Stadium?<FONT,PUSH,20><COL1,PUSH,110,150,255,255>***<COL1,POP><FONT,POP>"
+					},
+					{
+					  "index": 92,
+					  "text": "<LINE,33>This is where you can play using data obtained\nin POKéMON Crystal. You can battle using\nBattle Data, watch battles, and study new\nBattle Rules."
+					},
+					{
+					  "index": 93,
+					  "text": "<FONT,PUSH,20><COL1,PUSH,110,150,255,255>***<COL1,POP><FONT,POP>How do I use it?<FONT,PUSH,20><COL1,PUSH,110,150,255,255>***<COL1,POP><FONT,POP>"
+					},
+					{
+					  "index": 94,
+					  "text": "<LINE,33>Use the Mobile\nAdapter GB to\nconnect your Game\nBoy to a mobile\nphone. Download the\ndata to POKéMON\nCrystal."
+					},
+					{
+					  "index": 95,
+					  "text": "<FONT,PUSH,20><COL1,PUSH,110,150,255,255>***<COL1,POP><FONT,POP>What is Battle Data?<FONT,PUSH,20><COL1,PUSH,110,150,255,255>***<COL1,POP><FONT,POP>"
+					},
+					{
+					  "index": 96,
+					  "text": "<LINE,33>This is information on other trainers, such as\\nwhich POKéMON they used and how they did in\\nbattle. You can get this data from the Crystal\\nversion."
+					},
+					{
+					  "index": 97,
+					  "text": "<FONT,PUSH,20><COL1,PUSH,110,150,255,255>***<COL1,POP><FONT,POP>What can you do with a Battle Data?<FONT,PUSH,20><COL1,PUSH,110,150,255,255>***<COL1,POP><FONT,POP>"
+					},
+					{
+					  "index": 98,
+					  "text": "<LINE,33>You can check to see how the\\nother trainers are doing in\\ntheir battles."
+					},
+					{
+					  "index": 99,
+					  "text": "<FONT,PUSH,20><COL1,PUSH,110,150,255,255>***<COL1,POP><FONT,POP>How many Battle Data files are there?<FONT,PUSH,20><COL1,PUSH,110,150,255,255>***<COL1,POP><FONT,POP>"
+					},
+					{
+					  "index": 100,
+					  "text": "<LINE,33>You can have three Battle Data files on the\\nCrystal Game Pak and six files on the\\nN64 Game Pak."
+					},
+					{
+					  "index": 101,
+					  "text": "<FONT,PUSH,20><COL1,PUSH,110,150,255,255>***<COL1,POP><FONT,POP>What is a Friend's Data?<FONT,PUSH,20><COL1,PUSH,110,150,255,255>***<COL1,POP><FONT,POP>"
+					},
+					{
+					  "index": 102,
+					  "text": "<LINE,33>POKéMON Crystal version, a Game Boy, a\nMobile Adapter GB, and a mobile phone are all\nyou need to enjoy Mobile Battles with friends.\nBattle friends from far away without using a\nGame Link Cable. Friend Data records the\nPOKéMON in your party during those battles."
+					},
+					{
+					  "index": 103,
+					  "text": "<FONT,PUSH,20><COL1,PUSH,110,150,255,255>***<COL1,POP><FONT,POP>What can you do with your Friend's Data?<FONT,PUSH,20><COL1,PUSH,110,150,255,255>***<COL1,POP><FONT,POP>"
+					},
+					{
+					  "index": 104,
+					  "text": "<LINE,33>Battle against the trainer in the Friend Data.\nFriend Data from Mobile Battles is saved to\nyour POKéMON Crystal Version Game Pak.\nTransfer it to the Nintendo 64 to store up to\neight Friend Data records."
+					},
+					{
+					  "index": 105,
+					  "text": "<LINE,33>You can get new Battle Rules from the Crystal\\nGame Pak. Just choose Rule Select on the\\nOptions menu, then save up to eight rules\\nsettings on your N64 Game Pak."
+					},
+					{
+					  "index": 106,
+					  "text": "<LINE,33>Battle Data, Friend's Data and Rule Data can be\\nsaved to or deleted from the N64 Game Pak.\\nThis data cannot be saved back to the\\nCrystal Game Pak."
+					},
+					{
+					  "index": 107,
+					  "text": "<LINE,33>Connect your Game Boy and mobile phone using\nthe Mobile Adapter GB."
+					},
+					{
+					  "index": 108,
+					  "text": "<LINE,33>Connect to the Mobile Center and download data\nto POKéMON Crystal version."
+					},
+					{
+					  "index": 109,
+					  "text": "<LINE,34>Insert the updated Game Pak into the\nTransfer Pak to play Mobile Stadium."
+					},
+					{
+					  "index": 110,
+					  "text": "<FONT,PUSH,20><COL1,PUSH,110,150,255,255>***<COL1,POP><FONT,POP>What is Rule Data?<FONT,PUSH,20><COL1,PUSH,110,150,255,255>***<COL1,POP><FONT,POP>"
+					},
+					{
+					  "index": 111,
+					  "text": "<FONT,PUSH,20><COL1,PUSH,110,150,255,255>***<COL1,POP><FONT,POP>How do I organize data?<FONT,PUSH,20><COL1,PUSH,110,150,255,255>***<COL1,POP><FONT,POP>"
+					},
+					{
+					  "index": 112,
+					  "text": "Mobile Adapter GB"
+					},
+					{
+					  "index": 113,
+					  "text": "Mobile Center"
+					},
+					{
+					  "index": 114,
+					  "text": "<LINE,33>A PLAY icon will appear during the demo.\\nPress START to quit at any time. You can also\\nchallenge that trainer."
+					},
+					{
+					  "index": 115,
+					  "text": "<LINE,33>Be sure both players are using the same color\nMobile Adapter GB. Otherwise, you won't be able\nto trade or battle."
+					},
+					{
+					  "index": 116,
+					  "text": "6 -Others"
+					},
+					{
+					  "index": 117,
+					  "text": "<FONT,PUSH,20><COL1,PUSH,110,150,255,255>***<COL1,POP><FONT,POP>Others<FONT,PUSH,20><COL1,PUSH,110,150,255,255>***<COL2,POP><FONT,POP>"
+					},
+					{
+					  "index": 118,
+					  "text": "<LINE,33>Once you have saved your Crystal data to the\\nN64, you can play without the Crystal Game Pak.\\nYou can watch a match between the trainers\\nsaved in your battle data files or play against a\\nRed, Blue or Yellow version."
+					},
+					{
+					  "index": 119,
+					  "text": "<LINE,33>Even if your connection time expires and you\ncan no longer connect, your Friend Data will\nalready be saved. After disconnecting, you\ncan continue the battle against the computer\nat your own pace."
+					},
+					{
+					  "index": 120,
+					  "text": "You can't download\nthe same data twice."
+					},
+					{
+					  "index": 121,
+					  "text": "<LINE,34>From then on, Mobile Stadium\ncan be selected in POKéMON\nCrystal version."
+					},
+					{
+					  "index": 122,
+					  "text": "<LINE,33>The downloaded data can then\nbe used in Mobile Stadium on\nthe Nintendo 64."
+					},
+					{
+					  "index": 123,
+					  "text": "<LINE,33>The next time you turn the\npower on, the screen shown on\nthe left will appear."
+					},
+					{
+					  "index": 124,
+					  "text": "<LINE,34>If you start POKéMON Stadium 2 with a\nPOKéMON Crystal Game Pak that has displayed\nthis screen Mobile Stadium will appear on the\nmenu!"
+                    }
+                ],
+    "additional_text_files":  [
+                                  {
+                                      "text_file":  25,
+                                      "first_entry":  0,
+                                      "last_entry":  18,
+                                      "entries":  [
+                                                      {
+                                                          "index":  0,
+                                                          "text":  "Please select GB Game Pak."
+                                                      },
+                                                      {
+                                                          "index":  14,
+                                                          "text":  "Download activated at Mobile Stadium\\nPOKéMON Crystal version."
+                                                      },
+                                                      {
+                                                          "index":  18,
+                                                          "text":  "Please press A Button."
+                                                      }
+                                                  ]
+                                  }
+                              ]
+}

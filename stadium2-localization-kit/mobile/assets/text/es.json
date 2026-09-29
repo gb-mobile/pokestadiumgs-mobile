@@ -1,0 +1,191 @@
+{
+    "format": 2,
+    "language": "es",
+    "source_script": "es_msg.txt",
+    "text_file": 54,
+    "first_entry": 86,
+    "last_entry": 124,
+    "control_codes": {
+        "literal_newline": "\\n",
+        "note": "Keep backslash-n controls and all other bracketed variables unchanged."
+    },
+    "entries": [
+        {
+            "index": 86,
+            "text": "1 -Estadio Móvil"
+        },
+        {
+            "index": 87,
+            "text": "2 -Juega con datos de batalla"
+        },
+        {
+            "index": 88,
+            "text": "3 -Juega con datos de un amigo"
+        },
+        {
+            "index": 89,
+            "text": "4 -Datos de las reglas"
+        },
+        {
+            "index": 90,
+            "text": "5 -Organizar datos"
+        },
+        {
+            "index": 91,
+            "text": "<FONT,PUSH,20><COL1,PUSH,110,150,255,255>***<COL1,POP><FONT,POP>¿Qué es el Estadio Móvil?<FONT,PUSH,20><COL1,PUSH,110,150,255,255>***<COL1,POP><FONT,POP>"
+        },
+        {
+            "index": 92,
+            "text": "<LINE,33>Aquí puedes jugar utilizando datos obtenidos\nen POKéMON Cristal. Puedes luchar utilizando\nlos Datos de Combate, ver combates y estudiar\nnuevas Reglas de Combate."
+        },
+        {
+            "index": 93,
+            "text": "<FONT,PUSH,20><COL1,PUSH,110,150,255,255>***<COL1,POP><FONT,POP>¿Cómo lo uso?<FONT,PUSH,20><COL1,PUSH,110,150,255,255>***<COL1,POP><FONT,POP>"
+        },
+        {
+            "index": 94,
+            "text": "<LINE,33>Usa el Adaptador\nMóvil GB para\nconectar tu Game Boy\na un teléfono móvil.\nDescarga los datos a\nPOKéMON Cristal."
+        },
+        {
+            "index": 95,
+            "text": "<FONT,PUSH,20><COL1,PUSH,110,150,255,255>***<COL1,POP><FONT,POP>¿Qué son los Datos de Combate?<FONT,PUSH,20><COL1,PUSH,110,150,255,255>***<COL1,POP><FONT,POP>"
+        },
+        {
+            "index": 96,
+            "text": "<LINE,33>Se trata de información sobre otros\\nentrenadores, como qué POKéMON utilizaron y\\ncómo les fue en combate. Puedes obtener estos\\ndatos de la edición Cristal."
+        },
+        {
+            "index": 97,
+            "text": "<FONT,PUSH,20><COL1,PUSH,110,150,255,255>***<COL1,POP><FONT,POP>¿Qué permiten los  Datos de Combate?<FONT,PUSH,20><COL1,PUSH,110,150,255,255>***<COL1,POP><FONT,POP>"
+        },
+        {
+            "index": 98,
+            "text": "<LINE,33>Puedes comprobar cómo les va\\na los demás entrenadores en\\nsus combates."
+        },
+        {
+            "index": 99,
+            "text": "<FONT,PUSH,20><COL1,PUSH,110,150,255,255>***<COL1,POP><FONT,POP>¿Cuántos Datos de Combate hay?<FONT,PUSH,20><COL1,PUSH,110,150,255,255>***<COL1,POP><FONT,POP>"
+        },
+        {
+            "index": 100,
+            "text": "<LINE,33>Puedes guardar tres archivos de Datos de\\nCombate en el cartucho de Cristal y seis\\narchivos en el cartucho de N64."
+        },
+        {
+            "index": 101,
+            "text": "<FONT,PUSH,20><COL1,PUSH,110,150,255,255>***<COL1,POP><FONT,POP>¿Qué son los Datos de Amigos?<FONT,PUSH,20><COL1,PUSH,110,150,255,255>***<COL1,POP><FONT,POP>"
+        },
+        {
+            "index": 102,
+            "text": "<LINE,33><LINE,33>La edición de POKéMON Cristal, una Game Boy, un\nAdaptador Móvil GB y un teléfono móvil son todo\nlo que necesitas para disfrutar de Combates\nMóviles con tus amigos. Lucha contra amigos que\nestén lejos sin usar un cable Game Link. Los\nDatos de Amigos registran los POKéMON de tu\nequipo durante esos combates."
+        },
+        {
+            "index": 103,
+            "text": "<FONT,PUSH,20><COL1,PUSH,110,150,255,255>***<COL1,POP><FONT,POP>¿Qué permiten los Datos de Amigos?<FONT,PUSH,20><COL1,PUSH,110,150,255,255>***<COL1,POP><FONT,POP>"
+        },
+        {
+            "index": 104,
+            "text": "<LINE,33>Lucha contra el entrenador de los Datos de\nAmigos. Los Datos de Amigos de tus Combates\nMóviles se guardan en tu cartucho de POKéMON\nCristal. Transfiérelos a la Nintendo 64 para\nalmacenar hasta ocho registros de Datos de\nAmigos."
+        },
+        {
+            "index": 105,
+            "text": "<LINE,33>Puedes obtener nuevas Reglas de Combate desde\\nel cartucho de Cristal. Solo tienes que\\nseleccionar Selección de Reglas en el menú\\nde opciones y, a continuación, guardar hasta\\nocho configuraciones de reglas en tu cartucho\\nde N64."
+        },
+        {
+            "index": 106,
+            "text": "<LINE,33>Los Datos de Combate, Datos de Amigos y\\nDatos de Regla se pueden guardar o borrar en\\nel cartucho de N64. Estos datos no se pueden\\nvolver a guardar en el cartucho de POKéMON\\nCristal."
+        },
+        {
+            "index": 107,
+            "text": "<LINE,33>Conecta tu Game Boy y tu teléfono móvil\nmediante el Adaptador Móvil GB."
+        },
+        {
+            "index": 108,
+            "text": "<LINE,33>Conéctate al Centro Móvil y descarga los datos\na POKéMON Cristal."
+        },
+        {
+            "index": 109,
+            "text": "<LINE,33>Inserta el cartucho actualizado en el\nTransfer Pak para utilizar el Estadio Móvil."
+        },
+        {
+            "index": 110,
+            "text": "<FONT,PUSH,20><COL1,PUSH,110,150,255,255>***<COL1,POP><FONT,POP>¿Qué son los Datos de Regla?<FONT,PUSH,20><COL1,PUSH,110,150,255,255>***<COL1,POP><FONT,POP>"
+        },
+        {
+            "index": 111,
+            "text": "<FONT,PUSH,20><COL1,PUSH,110,150,255,255>***<COL1,POP><FONT,POP>¿Cómo organizo los datos?<FONT,PUSH,20><COL1,PUSH,110,150,255,255>***<COL1,POP><FONT,POP>"
+        },
+        {
+            "index": 112,
+            "text": "Adaptador Móvil GB"
+        },
+        {
+            "index": 113,
+            "text": "Centro Móvil"
+        },
+        {
+            "index": 114,
+            "text": "<LINE,33>Durante la demo aparecerá un icono de REP.\\nPulsa START para salir en cualquier momento.\\nTambién puedes retar a ese entrenador."
+        },
+        {
+            "index": 115,
+            "text": "<LINE,33>Asegúrate de que ambos jugadores utilicen el\nmismo color de Adaptador Móvil GB. De lo\ncontrario, no podrás intercambiar ni luchar."
+        },
+        {
+            "index": 116,
+            "text": "6 -Otros"
+        },
+        {
+            "index": 117,
+            "text": "<FONT,PUSH,20><COL1,PUSH,110,150,255,255>***<COL1,POP><FONT,POP>Otros<FONT,PUSH,20><COL1,PUSH,110,150,255,255>***<COL2,POP><FONT,POP>"
+        },
+        {
+            "index": 118,
+            "text": "<LINE,33>Una vez que hayas guardado tus datos de\\nCristal en la N64, podrás jugar sin el\\ncartucho de Cristal. Podrás ver un combate\\nentre los entrenadores guardados en tus\\narchivos de Datos de Combate o jugar contra\\nuna edición Roja, Azul o Amarilla."
+        },
+        {
+            "index": 119,
+            "text": "<LINE,33>Aunque se agote el tiempo de conexión y ya no\npuedas conectarte antes de que se decida un\nganador, tus Datos de Amigos ya se habrán\nguardado. Tras desconectarte, podrás\ncontinuar la batalla contra el sistema a tu\nritmo."
+        },
+        {
+            "index": 120,
+            "text": "No puedes descargar los\nmismos datos dos veces."
+        },
+        {
+            "index": 121,
+            "text": "<LINE,33>A partir de ahora, se podrá\nseleccionar el Estadio Móvil\nen la edición de POKéMON\nCristal."
+        },
+        {
+            "index": 122,
+            "text": "<LINE,33>Los datos descargados se\npueden utilizar en el\nEstadio Móvil para Nintendo 64."
+        },
+        {
+            "index": 123,
+            "text": "<LINE,33>Cuando vuelvas a encenderla,\nverás la pantalla mostrada\na la izquierda."
+        },
+        {
+            "index": 124,
+            "text": "<LINE,34>Inicia POKéMON Stadium 2 con un cartucho de\nPOKéMON Cristal en el que haya aparecido esta\npantalla. ¡Aparecerá el Estadio Móvil!"
+        }
+    ],
+    "additional_text_files":  [
+                                  {
+                                      "text_file":  25,
+                                      "first_entry":  0,
+                                      "last_entry":  18,
+                                      "entries":  [
+                                                      {
+                                                          "index":  0,
+                                                          "text":  "Selecciona un cartucho GB."
+                                                      },
+                                                      {
+                                                          "index":  14,
+                                                          "text":  "Activada la descarga en la edición de \\nPOKéMON Cristal del Estadio Móvil."
+                                                      },
+                                                      {
+                                                          "index":  18,
+                                                          "text":  "Pulsa el\\nBotón A."
+                                                      }
+                                                  ]
+                                  }
+                              ]
+}

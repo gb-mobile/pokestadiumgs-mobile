@@ -1,0 +1,25 @@
+{
+  "format": 1,
+  "language": "es",
+  "source": "es_msg.txt",
+  "text_files": [
+    {
+      "text_file": 25,
+      "entries": [
+        {
+          "index": 18,
+          "text": "Pulsa el Botón A."
+        }
+      ]
+    },
+    {
+      "text_file": 63,
+      "entries": [
+        {
+          "index": 3,
+          "text": "Se pueden usar los datos del cartucho\\nde N64 o GB Cristal para ver las\\nbatallas y los entrenadores."
+        }
+      ]
+    }
+  ]
+}

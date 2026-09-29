@@ -1,0 +1,192 @@
+{
+    "format":  2,
+    "language":  "de",
+    "source_script":  "de_msg.txt",
+    "text_file":  54,
+    "first_entry":  86,
+    "last_entry":  124,
+    "control_codes":  {
+					"literal_newline": "\\n",
+					"note": "Keep backslash-n controls and all other bracketed variables unchanged."
+				},
+				"entries": [
+					{
+						"index": 86,
+						"text": "1 -Mobiles Stadion"
+					},
+					{
+						"index": 87,
+						"text": "2 -Spiel mit Kampfdaten"
+					},
+					{
+						"index": 88,
+						"text": "3 -Spiel mit Daten eines Freundes"
+					},
+					{
+						"index": 89,
+						"text": "4 -Daten des Reglements"
+					},
+					{
+						"index": 90,
+						"text": "5 -Daten verwalten"
+					},
+					{
+						"index": 91,
+						"text": "<FONT,PUSH,20><COL1,PUSH,110,150,255,255>***<COL1,POP><FONT,POP>Was ist das Mobile Stadion?<FONT,PUSH,20><COL1,PUSH,110,150,255,255>***<COL1,POP><FONT,POP>"
+					},
+					{
+						"index": 92,
+						"text": "<LINE,33>Hier kannst du mit Daten aus POKéMON Kristall\nspielen. Du kannst mittels Kampfdaten kämpfen,\nabgeschlossene Kämpfe anschauen und dich mit\nneuen Kampfregeln vertraut machen."
+					},
+					{
+						"index": 93,
+						"text": "<FONT,PUSH,20><COL1,PUSH,110,150,255,255>***<COL1,POP><FONT,POP>Wie funktioniert es?<FONT,PUSH,20><COL1,PUSH,110,150,255,255>***<COL1,POP><FONT,POP>"
+					},
+					{
+						"index": 94,
+						"text": "<LINE,33>Nutze den Mobilen\nAdapter GB, um\ndeinen Game Boy mit\neinem Handy zu\nverbinden. Lade die\nDaten in POKéMON\nKristall herunter."
+					},
+					{
+						"index": 95,
+						"text": "<FONT,PUSH,20><COL1,PUSH,110,150,255,255>***<COL1,POP><FONT,POP>Was sind Kampfdaten?<FONT,PUSH,20><COL1,PUSH,110,150,255,255>***<COL1,POP><FONT,POP>"
+					},
+					{
+						"index": 96,
+						"text": "<LINE,33>Hierbei handelt es sich um Informationen über\\nandere Trainer, wie z. B. ihre eingesetzten\\nPOKéMON oder wie gut sie sich im Kampf\\ngeschlagen haben. Du kannst diese Daten von\\nder Kristall-Edition erhalten."
+					},
+					{
+						"index": 97,
+						"text": "<FONT,PUSH,20><COL1,PUSH,110,150,255,255>***<COL1,POP><FONT,POP>Wozu können Kampfdaten genutzt werden?<FONT,PUSH,20><COL1,PUSH,110,150,255,255>***<COL1,POP><FONT,POP>"
+					},
+					{
+						"index": 98,
+						"text": "<LINE,33>Du kannst herausfinden, wie\nandere Trainer in ihren \nKämpfen abgeschnitten haben."
+					},
+					{
+						"index": 99,
+						"text": "<FONT,PUSH,20><COL1,PUSH,110,150,255,255>***<COL1,POP><FONT,POP>Wie viele Kampfdaten-Plätze gibt es?<FONT,PUSH,20><COL1,PUSH,110,150,255,255>***<COL1,POP><FONT,POP>"
+					},
+					{
+						"index": 100,
+						"text": "<LINE,33>Für Kampfdaten stehen dir drei Plätze auf dem\nKristall-Modul und sechs Plätze auf dem\nN64-Modul zur Verfügung."
+					},
+					{
+						"index": 101,
+						"text": "<FONT,PUSH,20><COL1,PUSH,110,150,255,255>***<COL1,POP><FONT,POP>Was sind Freundesdaten?<FONT,PUSH,20><COL1,PUSH,110,150,255,255>***<COL1,POP><FONT,POP>"
+					},
+					{
+						"index": 102,
+						"text": "<LINE,33>Für Mobile Kämpfe mit Freunden brauchst du\nein Exemplar von POKéMON Kristall, einen\nGame Boy, einen Mobilen Adapter GB und ein\nHandy. Kämpfe mit Freunden aus der Ferne\nganz ohne Link-Kabel. Freundesdaten speichern\ndie POKéMON aus deinem Team, die du in diesen\nKämpfen eingesetzt hast."
+					},
+					{
+						"index": 103,
+						"text": "<FONT,PUSH,20><COL1,PUSH,110,150,255,255>***<COL1,POP><FONT,POP>Wozu dienen Freundesdaten?<FONT,PUSH,20><COL1,PUSH,110,150,255,255>***<COL1,POP><FONT,POP>"
+					},
+					{
+						"index": 104,
+						"text": "<LINE,33>Kämpfe gegen den Trainer aus Freundesdaten.\nDaten aus Mobilen Kämpfen werden auf deinem\nKristall-Edition-Modul gespeichert. Übertrage\nsie auf dein Nintendo 64, um bis zu acht\nFreundesdaten-Sätze zu speichern."
+					},
+					{
+						"index": 105,
+						"text": "<LINE,33>Du kannst neue Kampfregeln vom Kristall-Modul\\nerhalten. Wähle einfach 'Regeln erstellen'\\nim Optionsmenü und speichere dann bis zu acht\\nRegel-Einstellungen auf deinem N64-Modul."
+					},
+					{
+						"index": 106,
+						"text": "<LINE,33>Kampfdaten, Freundesdaten und Regeldaten\nkönnen auf dem N64-Modul gespeichert oder\ngelöscht werden. Diese Daten können nicht\nzurück auf das Kristall-Modul übertragen\nwerden."
+					},
+					{
+						"index": 107,
+						"text": "<LINE,33>Nutze den Mobilen Adapter GB, um deinen\nGame Boy mit einem Handy zu verbinden."
+					},
+					{
+						"index": 108,
+						"text": "<LINE,33>Verbinde dich mit dem Mobilen Center und lade\nDaten auf die POKéMON Kristall-Edition\nherunter."
+					},
+					{
+						"index": 109,
+						"text": "<LINE,34>Lege das aktualisierte Spielmodul in das\nTransfer Pak ein, um in den Genuss der\nFunktionen des Mobilen Stadions zu kommen."
+					},
+					{
+						"index": 110,
+						"text": "<FONT,PUSH,20><COL1,PUSH,110,150,255,255>***<COL1,POP><FONT,POP>Was sind Regeldaten?<FONT,PUSH,20><COL1,PUSH,110,150,255,255>***<COL1,POP><FONT,POP>"
+					},
+					{
+						"index": 111,
+						"text": "<FONT,PUSH,20><COL1,PUSH,110,150,255,255>***<COL1,POP><FONT,POP>Wie organisiere ich Daten?<FONT,PUSH,20><COL1,PUSH,110,150,255,255>***<COL1,POP><FONT,POP>"
+					},
+					{
+						"index": 112,
+						"text": "Mobiler Adapter GB"
+					},
+					{
+						"index": 113,
+						"text": "Mobiles Center"
+					},
+					{
+						"index": 114,
+						"text": "<LINE,33>Ein WDHLG-Symbol erscheint während der Demo.\\nDrücke START, um jederzeit abzubrechen. Du\\nkannst den jeweiligen Trainer auch\\nherausfordern."
+					},
+					{
+						"index": 115,
+						"text": "<LINE,33>Stelle sicher, dass beide Spieler einen Mobilen\nAdapter GB derselben Farbe benutzen.\nAnsonsten kann weder getauscht noch gekämpft\nwerden."
+					},
+					{
+						"index": 116,
+						"text": "6 -Sonstiges"
+					},
+					{
+						"index": 117,
+						"text": "<FONT,PUSH,20><COL1,PUSH,110,150,255,255>***<COL1,POP><FONT,POP>Sonstiges<FONT,PUSH,20><COL1,PUSH,110,150,255,255>***<COL2,POP><FONT,POP>"
+					},
+					{
+						"index": 118,
+						"text": "<LINE,33>Sobald du deine Kristall-Daten auf das N64\\nübertragen hast, kannst du auch ohne das\nKristall-Modul weiter spielen. Du kannst dir\\nKämpfe zwischen gespeicherten Trainern über\\ndie Kampfdaten anschauen oder gegen eine\\nRote, Blaue bzw. Gelbe Edition kämpfen."
+					},
+					{
+						"index": 119,
+						"text": "<LINE,33>Auch wenn deine Verbindungszeit überschritten\nwurde und du keine weitere Verbindung\nherstellen kannst, bleiben deine Freundesdaten\ngespeichert. Nachdem die Verbindung getrennt\nwurde, kannst du den Kampf ohne Eile gegen den\nComputer fortsetzen."
+					},
+					{
+						"index": 120,
+						"text": "Du hast dieselben\nDaten bereits zuvor\nheruntergeladen."
+					},
+					{
+						"index": 121,
+						"text": "<LINE,34>Ab diesem Zeitpunkt kann das\nMobile Stadion in der\nPOKéMON Kristall-Edition\nausgewählt werden."
+					},
+					{
+						"index": 122,
+						"text": "<LINE,33>Die heruntergeladenen Daten\nkönnen dann im Mobilen Stadion\nauf dem Nintendo 64 genutzt\nwerden."
+					},
+					{
+						"index": 123,
+						"text": "<LINE,33>Wenn du das Spiel das nächste\nMal startest, erscheint der\nlinks gezeigte Bildschirm."
+					},
+					{
+						"index": 124,
+						"text": "<LINE,34>Das Mobile Stadion erscheint im Menü, wenn\ndu POKéMON Stadium 2 zusammen mit einem\nPOKéMON Kristall-Modul startest, das diesen\nBildschirm zuvor angezeigt hat!"
+					}
+				],
+				"additional_text_files": [
+					{
+						"text_file": 25,
+						"first_entry": 0,
+						"last_entry": 18,
+						"entries": [
+							{
+								"index": 0,
+								"text": "Bitte wähle das Game Boy-Modul."
+							},
+							{
+								"index": 14,
+								"text": "Download im Mobilen Stadion der POKéMON Kristall-Edition aktiviert."
+							},
+							{
+								"index": 18,
+								"text": "Bitte drücke\\nden A-Knopf."
+							}
+						]
+					}
+				]
+
+}

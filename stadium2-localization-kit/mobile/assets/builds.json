@@ -1,0 +1,44 @@
+{
+  "us": {
+    "crystal_id": "BYTE",
+    "service_url": "http://gameboy.datacenter.ne.jp/cgb/download?n=/01/CGB-BYTE/exchange/index.txt",
+    "crystal_id_source": "retail Pokemon Crystal cartridge game code",
+    "service_url_source": "reconstructed regional counterpart of the Japanese retail Mobile Adapter URL; only the four-character product code differs, and the length stays at the 78 ASCII bytes the retail string occupies"
+  },
+  "en": {
+    "crystal_id": "BYTP",
+    "service_url": "http://gameboy.datacenter.ne.jp/cgb/download?n=/01/CGB-BYTP/exchange/index.txt",
+    "crystal_id_source": "retail Pokemon Crystal cartridge game code",
+    "service_url_source": "reconstructed regional counterpart of the Japanese retail Mobile Adapter URL; only the four-character product code differs, and the length stays at the 78 ASCII bytes the retail string occupies"
+  },
+  "au": {
+    "crystal_id": "BYTU",
+    "service_url": "http://gameboy.datacenter.ne.jp/cgb/download?n=/01/CGB-BYTU/exchange/index.txt",
+    "crystal_id_source": "retail Pokemon Crystal cartridge game code",
+    "service_url_source": "reconstructed regional counterpart of the Japanese retail Mobile Adapter URL; only the four-character product code differs, and the length stays at the 78 ASCII bytes the retail string occupies"
+  },
+  "fr": {
+    "crystal_id": "BYTF",
+    "service_url": "http://gameboy.datacenter.ne.jp/cgb/download?n=/01/CGB-BYTF/exchange/index.txt",
+    "crystal_id_source": "retail Pokemon Crystal cartridge game code",
+    "service_url_source": "reconstructed regional counterpart of the Japanese retail Mobile Adapter URL; only the four-character product code differs, and the length stays at the 78 ASCII bytes the retail string occupies"
+  },
+  "de": {
+    "crystal_id": "BYTD",
+    "service_url": "http://gameboy.datacenter.ne.jp/cgb/download?n=/01/CGB-BYTD/exchange/index.txt",
+    "crystal_id_source": "retail Pokemon Crystal cartridge game code",
+    "service_url_source": "reconstructed regional counterpart of the Japanese retail Mobile Adapter URL; only the four-character product code differs, and the length stays at the 78 ASCII bytes the retail string occupies"
+  },
+  "it": {
+    "crystal_id": "BYTI",
+    "service_url": "http://gameboy.datacenter.ne.jp/cgb/download?n=/01/CGB-BYTI/exchange/index.txt",
+    "crystal_id_source": "retail Pokemon Crystal cartridge game code",
+    "service_url_source": "reconstructed regional counterpart of the Japanese retail Mobile Adapter URL; only the four-character product code differs, and the length stays at the 78 ASCII bytes the retail string occupies"
+  },
+  "es": {
+    "crystal_id": "BYTS",
+    "service_url": "http://gameboy.datacenter.ne.jp/cgb/download?n=/01/CGB-BYTS/exchange/index.txt",
+    "crystal_id_source": "retail Pokemon Crystal cartridge game code",
+    "service_url_source": "reconstructed regional counterpart of the Japanese retail Mobile Adapter URL; only the four-character product code differs, and the length stays at the 78 ASCII bytes the retail string occupies"
+  }
+}

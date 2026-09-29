@@ -1,0 +1,191 @@
+{
+    "format":  2,
+    "language":  "it",
+    "source_script":  "it_msg.txt",
+    "text_file":  54,
+    "first_entry":  86,
+    "last_entry":  124,
+    "control_codes":  {
+                          "literal_newline":  "\\n",
+                          "note":  "Keep backslash-n controls and all other bracketed variables unchanged."
+                      },
+    "entries":  [
+                    {
+					  "index": 86,
+					  "text": "1 -Stadio Mobile"
+					},
+					{
+					  "index": 87,
+					  "text": "2 -Gioca con i Dati Battaglia"
+					},
+					{
+					  "index": 88,
+					  "text": "3 -Gioca con i Dati Amico"
+					},
+					{
+					  "index": 89,
+					  "text": "4 -Dati Regole"
+					},
+					{
+					  "index": 90,
+					  "text": "5 -Organizza Dati"
+					},
+					{
+					  "index": 91,
+					  "text": "<FONT,PUSH,20><COL1,PUSH,110,150,255,255>***<COL1,POP><FONT,POP>Cos'è Stadio Mobile?<FONT,PUSH,20><COL1,PUSH,110,150,255,255>***<COL1,POP><FONT,POP>"
+					},
+					{
+					  "index": 92,
+					  "text": "<LINE,33>Qui puoi giocare usando i dati ottenuti in\nPOKéMON Cristallo. Puoi lottare usando i\nDati Battaglia, guardare lotte, e studiare\nnuove Regole Battaglia."
+					},
+					{
+					  "index": 93,
+					  "text": "<FONT,PUSH,20><COL1,PUSH,110,150,255,255>***<COL1,POP><FONT,POP>Come lo utilizzo?<FONT,PUSH,20><COL1,PUSH,110,150,255,255>***<COL1,POP><FONT,POP>"
+					},
+					{
+					  "index": 94,
+					  "text": "<LINE,33>Usa il Mobile\nAdapter GB per\nconnettere il tuo\nGame Boy ad un\ncellulare. Scarica i\ndati da POKéMON\nCristallo."
+					},
+					{
+					  "index": 95,
+					  "text": "<FONT,PUSH,20><COL1,PUSH,110,150,255,255>***<COL1,POP><FONT,POP>Cosa sono i Dati Battaglia?<FONT,PUSH,20><COL1,PUSH,110,150,255,255>***<COL1,POP><FONT,POP>"
+					},
+					{
+					  "index": 96,
+					  "text": "<LINE,33>Queste sono informazioni su altri allenatori,\\nad esempio i POKéMON usati e come sono andati\\nin battaglia. Puoi nottenere questi dati dalla\\nVersione Cristallo."
+					},
+					{
+					  "index": 97,
+					  "text": "<FONT,PUSH,20><COL1,PUSH,110,150,255,255>***<COL1,POP><FONT,POP>Cosa puoi fare con i Dati Battaglia?<FONT,PUSH,20><COL1,PUSH,110,150,255,255>***<COL1,POP><FONT,POP>"
+					},
+					{
+					  "index": 98,
+					  "text": "<LINE,33>Puoi vedere come gli altri\\nallenatori vanno nelle altre\\nbattaglie."
+					},
+					{
+					  "index": 99,
+					  "text": "<FONT,PUSH,20><COL1,PUSH,110,150,255,255>***<COL1,POP><FONT,POP>Quanti file di Dati Battaglia ci sono qui?<FONT,PUSH,20><COL1,PUSH,110,150,255,255>***<COL1,POP><FONT,POP>"
+					},
+					{
+					  "index": 100,
+					  "text": "<LINE,33>Puoi avere tre file di Dati Battaglia sul\\nGame Pak di Cristallo e sei file sulla cassetta\\ndel N64."
+					},
+					{
+					  "index": 101,
+					  "text": "<FONT,PUSH,20><COL1,PUSH,110,150,255,255>***<COL1,POP><FONT,POP>Cosa sono i Dati Amico?<FONT,PUSH,20><COL1,PUSH,110,150,255,255>***<COL1,POP><FONT,POP>"
+					},
+					{
+					  "index": 102,
+					  "text": "<LINE,33>POKéMON Versione Cristallo, un Game Boy, un\nAdattatore Mobile GB e un cellulare sono tutto\nciò di cui hai bisogno per goderti le\nLotte Mobile con i tuoi amici. Lotta con amici\nlontani senza usare un Cavo Game Link. I Dati\nAmico registrano i POKéMON della tua squadra\ndurante queste lotte."
+					},
+					{
+					  "index": 103,
+					  "text": "<FONT,PUSH,20><COL1,PUSH,110,150,255,255>***<COL1,POP><FONT,POP>Cosa puoi fare con i Dati Amico?<FONT,PUSH,20><COL1,PUSH,110,150,255,255>***<COL1,POP><FONT,POP>"
+					},
+					{
+					  "index": 104,
+					  "text": "<LINE,33>Lotta contro l'allenatore nei Dati Amico.\nI Dati Amico dalle Lotte Mobile sono salvati nel\ntuo Game Pak di POKéMON Versione Cristallo.\nTrasferiscili al Nintendo 64 per memorizzare\nfino a otto registrazioni dei Dati Amico."
+					},
+					{
+					  "index": 105,
+					  "text": "<LINE,33>Puoi ottenere nuove Regole Battaglia dal\\nGame Pak di Cristallo. Basta scegliere Seleziona\\nRegola nel menu delle Opzioni, poi salvare fino\\na otto impostazioni delle regole sul tuo\\nGame Pak del N64."
+					},
+					{
+					  "index": 106,
+					  "text": "<LINE,33>Dati Battaglia, Dati Amico e Dati Regole possono\\nessere salvati su o eliminati dalla cassetta del\\nN64. Questi dati non possono essere salvati\\nindietro sulla cassetta di Cristallo."
+					},
+					{
+					  "index": 107,
+					  "text": "<LINE,33>Connetti il tuo Game Boy e il telefono usando\nil Adattatore Mobile GB."
+					},
+					{
+					  "index": 108,
+					  "text": "<LINE,33>Connettiti al Centro Mobile e scarica i dati\ndi POKéMON Versione Cristallo."
+					},
+					{
+					  "index": 109,
+					  "text": "<LINE,34>Inserisci la cassetta aggiornato nel\nTransfer Pak per giocare a Stadio Mobile."
+					},
+					{
+					  "index": 110,
+					  "text": "<FONT,PUSH,20><COL1,PUSH,110,150,255,255>***<COL1,POP><FONT,POP>Cosa sono i Dati Regole?<FONT,PUSH,20><COL1,PUSH,110,150,255,255>***<COL1,POP><FONT,POP>"
+					},
+					{
+					  "index": 111,
+					  "text": "<FONT,PUSH,20><COL1,PUSH,110,150,255,255>***<COL1,POP><FONT,POP>Come organizzo i dati?<FONT,PUSH,20><COL1,PUSH,110,150,255,255>***<COL1,POP><FONT,POP>"
+					},
+					{
+					  "index": 112,
+					  "text": "Adattatore Mobile GB"
+					},
+					{
+					  "index": 113,
+					  "text": "Centro Mobile"
+					},
+					{
+					  "index": 114,
+					  "text": "<LINE,33>Un icona GIOCA apparirà durante la demo. Premi\\nSTART per uscire in ogni momento. Puoi anche\\nsfidare quell'allenatore."
+					},
+					{
+					  "index": 115,
+					  "text": "<LINE,33>Assicurati che entrambi i giocatori usino lo\nstesso colore del Adattatore Mobile GB.\nAltrimenti, non potrai scambiare né lottare."
+					},
+					{
+					  "index": 116,
+					  "text": "6 -Altri"
+					},
+					{
+					  "index": 117,
+					  "text": "<FONT,PUSH,20><COL1,PUSH,110,150,255,255>***<COL1,POP><FONT,POP>Altri<FONT,PUSH,20><COL1,PUSH,110,150,255,255>***<COL2,POP><FONT,POP>"
+					},
+					{
+					  "index": 118,
+					  "text": "<LINE,33>Una volta salvati i tuoi dati di Cristallo nel\\nN64, puoi giocare senza la cassetta di Cristallo.\\nPuoi guardare una partita tra gli allenatori\\nsalvati nei tuoi file di dati battaglia o giocare\\ncontro una Versione di Rosso, Blu o Giallo."
+					},
+					{
+					  "index": 119,
+					  "text": "<LINE,33>Anche se la connessione scade e non puoi più\ncollegarti, i tuoi Dati Amico saranno già salvati.\nDopo la disconnessione, potrai continuare la\nbattaglia contro il computer a tuo piacimento."
+					},
+					{
+					  "index": 120,
+					  "text": "Non puoi scaricare\ngli stessi dati due volte."
+					},
+					{
+					  "index": 121,
+					  "text": "<LINE,34>Dopodichè, Stadio Mobile\npotrà essere selezionato in\nPOKéMON Versione Cristallo."
+					},
+					{
+					  "index": 122,
+					  "text": "<LINE,33>I dati scaricati potranno\nessere usati su Stadio Mobile\nsul Nintendo 64."
+					},
+					{
+					  "index": 123,
+					  "text": "<LINE,33>La prossima volta che accendi\nl'interruttore, la schermata\nqui sulla destra apparirà."
+					},
+					{
+					  "index": 124,
+					  "text": "<LINE,34>Se avvii POKéMON Stadium 2 con una cassetta di\nPOKéMON Cristallo che ha mostrato questa\nschermata, Stadio Mobile apparirà nel menu!"
+                    }
+                ],
+    "additional_text_files":  [
+                                  {
+                                      "text_file":  25,
+                                      "first_entry":  0,
+                                      "last_entry":  18,
+                                      "entries":  [
+                                                      {
+                                                          "index":  0,
+                                                          "text":  "Seleziona cassetta GB."
+                                                      },
+                                                      {
+                                                          "index":  14,
+                                                          "text":  "Stadio Mobile:  \\nscaricamento per POKéMON\\nVersione Cristallo attivato."
+                                                      },
+                                                      {
+                                                          "index":  18,
+                                                          "text":  "Premi il\\npulsante A."
+                                                      }
+                                                  ]
+                                  }
+                              ]
+}

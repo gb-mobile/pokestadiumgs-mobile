@@ -1,0 +1,37 @@
+{
+  "format": 1,
+  "language": "de",
+  "source": "de_msg.txt",
+  "text_files": [
+    {
+      "text_file": 25,
+      "entries": [
+        {
+          "index": 14,
+          "text": "Download im Mobilen Stadion für die\\nPOKéMON Kristall-Edition aktiviert."
+        },
+        {
+          "index": 16,
+          "text": "Download im Mobilen Stadion der\\nPOKéMON Kristall-Edition aktiviert."
+        },
+        {
+          "index": 18,
+          "text": "Bitte drücke den A-Knopf."
+        }
+      ]
+    },
+    {
+      "text_file": 63,
+      "entries": [
+        {
+          "index": 3,
+          "text": "Mit Kampfdaten des N64- oder GB-\\nKristall-Moduls kannst du Kämpfe\\nansehen und gegen Trainer antreten."
+        },
+        {
+          "index": 36,
+          "text": "Ungültig"
+        }
+      ]
+    }
+  ]
+}
