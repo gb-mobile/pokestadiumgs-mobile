@@ -44,7 +44,7 @@
 					},
 					{
 						"index": 94,
-						"text": "<LINE,33>Nutze den Mobilen\nAdapter GB, um\ndeinen Game Boy mit\neinem Handy zu\nverbinden. Lade die\nDaten in POKéMON\nKristall herunter."
+						"text": "<LINE,33>Nutze den Mobilen\nGB Adapter, um\ndeinen Game Boy mit\neinem Handy zu\nverbinden. Lade die\nDaten in POKéMON\nKristall herunter."
 					},
 					{
 						"index": 95,
@@ -76,7 +76,7 @@
 					},
 					{
 						"index": 102,
-						"text": "<LINE,33>Für Mobile Kämpfe mit Freunden brauchst du\nein Exemplar von POKéMON Kristall, einen\nGame Boy, einen Mobilen Adapter GB und ein\nHandy. Kämpfe mit Freunden aus der Ferne\nganz ohne Link-Kabel. Freundesdaten speichern\ndie POKéMON aus deinem Team, die du in diesen\nKämpfen eingesetzt hast."
+						"text": "<LINE,33>Für Mobile Kämpfe mit Freunden brauchst du\nein Exemplar von POKéMON Kristall, einen\nGame Boy, einen Mobilen GB Adapter und ein\nHandy. Kämpfe mit Freunden aus der Ferne\nganz ohne Link-Kabel. Freundesdaten speichern\ndie POKéMON aus deinem Team, die du in diesen\nKämpfen eingesetzt hast."
 					},
 					{
 						"index": 103,
@@ -96,7 +96,7 @@
 					},
 					{
 						"index": 107,
-						"text": "<LINE,33>Nutze den Mobilen Adapter GB, um deinen\nGame Boy mit einem Handy zu verbinden."
+						"text": "<LINE,33>Nutze den Mobilen GB Adapter, um deinen\nGame Boy mit einem Handy zu verbinden."
 					},
 					{
 						"index": 108,
@@ -116,7 +116,7 @@
 					},
 					{
 						"index": 112,
-						"text": "Mobiler Adapter GB"
+						"text": "Mobiler GB Adapter"
 					},
 					{
 						"index": 113,
@@ -128,7 +128,7 @@
 					},
 					{
 						"index": 115,
-						"text": "<LINE,33>Stelle sicher, dass beide Spieler einen Mobilen\nAdapter GB derselben Farbe benutzen.\nAnsonsten kann weder getauscht noch gekämpft\nwerden."
+						"text": "<LINE,33>Stelle sicher, dass beide Spieler einen Mobilen\nGB Adapter derselben Farbe benutzen.\nAnsonsten kann weder getauscht noch gekämpft\nwerden."
 					},
 					{
 						"index": 116,
