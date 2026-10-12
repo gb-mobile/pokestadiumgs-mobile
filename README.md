@@ -1,6 +1,8 @@
 # Pokemon Stadium 2 (US)
 A WIP decomp of Pokemon Stadium 2 (US/JP).
 
+Parts of this fork's Mobile Stadium modifications were developed with assistance from AI tools, including code generation. This note applies to our modifications, not to the upstream project.
+
 It builds the following ROMs:
 
 * pokestadiumgs-us.z64: `md5: 1561c75d11cedf356a8ddb1a4a5f9d5d`
